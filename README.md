@@ -24,7 +24,7 @@ Data for this calculator is input by the user.
 
 ### Travis Badge
 
-The following indicates the status of the most recent build:
+The following indicates the status of the most recent build with Travis:
 
 https://travis-ci.org/cowboy2718/IRRCalc.svg?branch=master
 
