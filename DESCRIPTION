@@ -5,8 +5,7 @@ Version: 0.1.0
 Author: person("Tony", "Gojanovic", email = "tonygojanovic@millercoors.com",
                   role = c("aut", "cre"))
 Maintainer: Tony Gojanovic <tony.gojanovic@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: Calculate the ratio of two incident rates along with a 95% confidence interval.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
