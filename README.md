@@ -26,7 +26,7 @@ Data for this calculator is input by the user.
 
 The following indicates the status of the most recent build with Travis:
 
-https://travis-ci.org/cowboy2718/IRRCalc.svg?branch=master
+[![Build Status](https://travis-ci.org/cowboy2718/IRRCalc.svg?branch=master)](https://travis-ci.org/cowboy2718/IRRCalc)
 
 ### References
 
