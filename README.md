@@ -15,7 +15,7 @@ So, IRR is Incident Rate Ratio and in the abouve, caes pre and post are measured
 
 ## Create an Example Package in R 
 
-Package: IRRCalc
+Package: IRRCalc  
 GitHub:  https://github.com/cowboy2718/IRRCalc
 
 ## Data Source
