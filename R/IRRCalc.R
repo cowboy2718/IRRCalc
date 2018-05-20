@@ -16,6 +16,8 @@
 
 
 IRR<-function(count1, volume1, count2, volume2){
+  
+  # Provide filters to the user to assure positive or non-zero values are input
 
   if(count1< 0){stop("Input a postive integer of 0 or greater")}else
     if(count2 <0){stop("Input a postive integer of 0 or greater")}else
@@ -28,8 +30,12 @@ IRR<-function(count1, volume1, count2, volume2){
 
   lower_CI = exp(log(IRR) - 1.96*sqrt(1/volume1 + 1/volume2))
   upper_CI = exp(log(IRR) + 1.96*sqrt(1/volume1 + 1/volume2))
+  
+  # Create a data frame of values for the user
 
   bounds_matrix<-data.frame(Statistic=c("Incident Rate Ratio","Lower 95% CI","Upper 95% CI"),Estimate=c(IRR,lower_CI,upper_CI))
+  
+  # Return the data frame
 
   return(bounds_matrix)
 
