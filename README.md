@@ -26,6 +26,8 @@ Data for this calculator is input by the user.
 
 The following indicates the status of the most recent build:
 
+https://travis-ci.org/cowboy2718/IRRCalc.svg?branch=master
+
 ### References
 
 Algoritms based on Algorithm based on "Comparing two incident rate ratios,” https://stats.stackexchange.com/questions/297994/comparing-two-incidence-rate-ratios
