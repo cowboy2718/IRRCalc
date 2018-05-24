@@ -2,7 +2,7 @@ Package: IRRCalc
 Type: Package
 Title: Incident Ratio Rate Calculator
 Version: 0.1.0
-Author: person("Tony", "Gojanovic", email = "tonygojanovic@millercoors.com",
+Author: person("Tony", "Gojanovic", email = "tonygojanovic@gmail.com",
                   role = c("aut", "cre"))
 Maintainer: Tony Gojanovic <tony.gojanovic@somewhere.net>
 Description: Calculate the ratio of two incident rates along with a 95% confidence interval.
